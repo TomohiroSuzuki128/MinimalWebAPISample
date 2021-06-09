@@ -28,7 +28,7 @@ SDK を調査した結果、セッションで紹介されたものと全く同�
 　  
 　  
 ## System Requirements ##
-以下の Visual Studio 2019 Preview と .NET 6 SDK プレビューをインストールしてください。
+以下の Visual Studio 2019 Preview 16.11 と .NET 6 SDK Preview 4 をインストールしてください。
 　  
 なお、Windows では Visual Studio 2019 Preview と Visual Studio 2019 はサイドバイサイドで動作し、共存可能です。
 　  

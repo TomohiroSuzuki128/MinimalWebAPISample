@@ -31,7 +31,6 @@ SDK を調査した結果、セッションで紹介されたものと全く同�
 以下の Visual Studio 2019 Preview 16.11 と .NET 6 SDK Preview 4 をインストールしてください。
 　  
 なお、Windows では Visual Studio 2019 Preview と Visual Studio 2019 はサイドバイサイドで動作し、共存可能です。
-　  
 ### Windows
 - Microsoft Visual Studio 2019 Preview Version 16.11.0 Preview 1.0
 　  
@@ -40,7 +39,6 @@ SDK を調査した結果、セッションで紹介されたものと全く同�
 - SDK 6.0.100-preview.4 Full version 6.0.100-preview.4.21255.9
 　  
 [https://dotnet.microsoft.com/download/dotnet/6.0](https://dotnet.microsoft.com/download/dotnet/6.0?WT.mc_id=DT-MVP-5002467)
-　  
 　  
 ### Mac
 - Microsoft Visual Studio 2019 for Mac Preview Version 8.10.1 

@@ -59,7 +59,7 @@ Minimal Web API のコードは Program.cs ファイルにすべてが記述で�
 ASP.NET Core Web API のコードと比較すると直感的にわかりやすく、簡単な Mock API やシンプルな API を作成するシナリオに利用できそうです。
 　  
 　  
-### APIのエンドポイント（Minimal Web API, ASP.NET Core Web API）共通
+### APIのエンドポイント（Minimal Web API, ASP.NET Core Web API 共通）
 | エンドポイント | メソッド | レスポンス |
 |:---|:---|:---|
 | / | Get | "Hello World!"文字列を固定で返却 |

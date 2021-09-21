@@ -21,7 +21,7 @@ app.MapGet("/weatherforecast", () =>
         Summary = Summaries[rng.Next(Summaries.Length)]
     }).ToArray()
 );
-app.Run();
+await app.RunAsync();
 
 public class WeatherForecast
 {
